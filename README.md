@@ -1,4 +1,4 @@
-### Hi there 👋
+[![grafik](https://github.com/dyrdadev/dyrdadev/assets/7857931/bdd2d748-3edc-443a-9990-13630aaedc9c)](https://dyrda.page)
 
 <!--
 **dyrdadev/dyrdadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

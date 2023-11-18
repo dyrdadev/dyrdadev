@@ -1,8 +1,9 @@
-<div style="width: 100%;">
-  <a href="https://dyrda.page/" target="_blank">
-    <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
+
+<a href="https://dyrda.page/" target="_blank">
+  <div style="width: 100%;">
+      <img src="hello.svg" style="width: 100%;" alt="Click to visit my web page.">
+  </div>
+</a>
 
 <!--
 **dyrdadev/dyrdadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

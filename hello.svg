@@ -59,8 +59,6 @@
         .love-animated {
             display: block;
             margin-left: 6px;
-            width: 18px;
-            height: 18px;
             animation-name: heartbeat;
             animation-duration: 1.2s;
             animation-iteration-count: infinite;
@@ -98,7 +96,7 @@
             animation: none;
           }
 
-          .hi {
+          .love-animated {
             animation: none;
           }
         }

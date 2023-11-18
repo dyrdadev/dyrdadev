@@ -1,5 +1,5 @@
 <a href="https://dyrda.page/" target="_blank">
-  <div style="width: 100%;">
+  <div class="test" style="width: 100%;">
       <img src="hello.svg" style="width: 100%;" alt="Click to visit my web page.">
   </div>
 </a>

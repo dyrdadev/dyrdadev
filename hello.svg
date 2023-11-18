@@ -57,7 +57,6 @@
         }
 
         .love-animated {
-            display: block;
             margin-left: 6px;
             animation-name: heartbeat;
             animation-duration: 1.2s;
@@ -105,7 +104,7 @@
       <div class="container">
         <div class="card">
           <div class="first-row">
-            <h1>Hi. My name is Daniel. Nice to see you.</h1><span class="love-animated">❤&#xFE0E;</span>
+            <h1>Hi. My name is Daniel. Nice to see you.</h1><div class="love-animated">❤&#xFE0E;</div>
           </div>
           <br/>
           <br/>

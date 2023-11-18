@@ -1,4 +1,8 @@
-[![grafik](https://github.com/dyrdadev/dyrdadev/assets/7857931/bdd2d748-3edc-443a-9990-13630aaedc9c)](https://dyrda.page)
+<div style="width: 100%;">
+  <a href="https://dyrda.page/" target="_blank">
+    <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 
 <!--
 **dyrdadev/dyrdadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
